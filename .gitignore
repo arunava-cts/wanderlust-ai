@@ -1,0 +1,7 @@
+.venv
+node_modules
+__pycache__
+*.pyc
+.video_tmp
+.cache
+.DS_Store
